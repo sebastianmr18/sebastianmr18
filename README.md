@@ -1,4 +1,3 @@
-# Juan Sebastián Muñoz Rojas
 <p align="center">
   <img src="https://img.shields.io/badge/🖤-Dark%20Mode-000000?style=for-the-badge&logo=github" alt="Dark Mode"/>
   <img src="https://img.shields.io/badge/🚀-Fullstack%20Developer-282a36?style=for-the-badge&logo=visual-studio-code&logoColor=61DAFB" alt="Fullstack Developer"/>
@@ -6,7 +5,7 @@
 
 > **“Slow down with the greatness, gotta take time.”**
 
-## 📫 How to reach me
+## 📫 Contact me!
 
 <p align="center">
   <a href="mailto:juan.munoz.rojas@correounivalle.edu.co">
@@ -24,7 +23,7 @@
 
 
 ## 👤 About Me
-I’m a Systems Engineering student at Universidad del Valle and a Junior Fullstack Developer, passionate about learning and imporving my skills, building collaborative applications and thriving in team environments; I’m proactive, self-driven, results-oriented within agile workflows, and my current goals are to contribute to high-impact Open Source projects, architect and deploy serverless solutions, and enhance my skills in automated testing and documentation.  
+I’m a Systems Engineering student at Universidad del Valle and a Junior Fullstack Developer, passionate about learning and improving my skills, building collaborative applications and thriving in team environments; I’m proactive, self-driven, results-oriented within agile workflows, and my current goals are to contribute to high-impact Open Source projects, architect and deploy serverless solutions, and enhance my skills in automated testing and documentation.  
 
 ---
 
